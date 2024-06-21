@@ -42,11 +42,3 @@ To run Quiz App locally:
 
 - Answer the quiz questions within one minute.
 - Select your answers and click "Submit" to see your score.
-
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-## Developed By
-
-This project was developed by [Varnit Saxena](https://github.com/varnitsaxena7).
